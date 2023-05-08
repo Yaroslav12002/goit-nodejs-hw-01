@@ -7,6 +7,7 @@ Application works throw command line.
 node index.js --action="list"
 
 [screenshot for "list" command](https://ibb.co/D5gkstk)
+<img width="50%" src="https://ibb.co/D5gkstk" alt="List of contacts" title="List of contacts" />
 
 # Receive a contact by id
 
