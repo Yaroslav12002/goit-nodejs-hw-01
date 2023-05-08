@@ -1,1 +1,24 @@
-# goit-nodejs-hw-01
+GoIT academy Homework 01 in Node.js module.
+Application works throw command line.
+
+![Receive and display the entire list]
+
+# Receive and display the entire list of contacts in the form of a table (console.table)
+
+node index.js --action="list"
+(https://ibb.co/D5gkstk)
+
+# Receive a contact by id
+
+node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
+(https://ibb.co/Fs0P33b)
+
+# Add a contact
+
+node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22-22
+(https://ibb.co/dfMPKj1)
+
+# Delete the contact
+
+node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
+(https://ibb.co/ZSH9vGW)
