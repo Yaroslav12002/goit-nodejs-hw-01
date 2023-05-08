@@ -23,4 +23,5 @@ node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22
 # Delete the contact
 
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
+
 [screenshot for "remove" command](https://ibb.co/ZSH9vGW)
